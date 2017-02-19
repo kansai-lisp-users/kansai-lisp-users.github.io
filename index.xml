@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>関西Lispユーザー会</title>
-    <link>https://kansai-lisp-users.com/index.xml</link>
+    <link>https://kansai-lisp-users.github.io/index.xml</link>
     <description>Recent content on 関西Lispユーザー会</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2017 関西Lispユーザ会 All rights reserved</copyright>
     <lastBuildDate>Sun, 19 Feb 2017 22:48:39 +0900</lastBuildDate>
-    <atom:link href="https://kansai-lisp-users.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kansai-lisp-users.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>関西Lispユーザ会のHPを開設しました</title>
-      <link>https://kansai-lisp-users.com/20170219/</link>
+      <link>https://kansai-lisp-users.github.io/20170219/</link>
       <pubDate>Sun, 19 Feb 2017 22:48:39 +0900</pubDate>
       
-      <guid>https://kansai-lisp-users.com/20170219/</guid>
+      <guid>https://kansai-lisp-users.github.io/20170219/</guid>
       <description>&lt;p&gt;関西Lispユーザ会のHPを開設しました．&lt;/p&gt;
 
 &lt;p&gt;今後会の活動やその他の情報をココにアップしようと思います．&lt;/p&gt;
