@@ -2,13 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>関西Lispユーザー会</title>
-    <link>https://kansai-lisp-users.github.io/index.xml</link>
+    <link>https://kansai-lisp-users.github.io/categories/index.xml</link>
     <description>Recent content on 関西Lispユーザー会</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2017 関西Lispユーザ会 All rights reserved</copyright>
-    <lastBuildDate>Wed, 01 Mar 2017 19:11:51 +0900</lastBuildDate>
-    <atom:link href="https://kansai-lisp-users.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kansai-lisp-users.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>第1回関西Lispユーザ会</title>
@@ -30,14 +29,21 @@
     </item>
     
     <item>
-      <title>関西Lispユーザ会のHPを開設しました</title>
-      <link>https://kansai-lisp-users.github.io/20170219/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>第1回関西Lispユーザ会</title>
+      <link>https://kansai-lisp-users.github.io/20170301/</link>
+      <pubDate>Wed, 01 Mar 2017 19:11:51 +0900</pubDate>
       
-      <guid>https://kansai-lisp-users.github.io/20170219/</guid>
-      <description>&lt;p&gt;関西Lispユーザ会のHPを開設しました．&lt;/p&gt;
+      <guid>https://kansai-lisp-users.github.io/20170301/</guid>
+      <description>
 
-&lt;p&gt;今後会の活動やその他の情報をココにアップしようと思います．&lt;/p&gt;
+&lt;h1 id=&#34;関西lispユーザ会&#34;&gt;関西Lispユーザ会&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;関西一円に潜んでる（プログラミング言語）Lispのユーザを集めて何かおもろいことやろう！&lt;/strong&gt;，という大志(?)のもと，
+本会「関西Lispユーザ会」を立ちあげてみました．&lt;/p&gt;
+
+&lt;p&gt;まずは第1回目のイベントということで，その昔，Kyoto.lispという団体もあったという京都での開催させていただくことになりました！&lt;/p&gt;
+
+&lt;p&gt;詳しくは以下のConnpassページで確認してください．&lt;/p&gt;
 </description>
     </item>
     
