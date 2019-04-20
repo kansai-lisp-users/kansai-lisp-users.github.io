@@ -1,0 +1,10 @@
+html {
+  line-height: 1.7;
+}
+a {
+  text-decoration: none;
+  color: #4286f4;
+}
+a:hover{
+  text-decoration: underline;
+}
