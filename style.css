@@ -20,7 +20,7 @@ header {
 
 main {
   margin: 0 auto;
-  padding: 0 10px;
+  padding: 0 15px;
   max-width: 800px;
 }
 
@@ -54,13 +54,16 @@ a {
   text-decoration: none;
   color: #2196f3;
 }
-a:hover{
+a:hover, a:focus{
   text-decoration: underline;
 }
 
 .info {
-  /*color: #1d72aa;*/
   background-color: #eef6fc;
   padding: 1rem;
   border-radius: 0.5rem;
+}
+
+.info a {
+  color: #0a90fa;
 }
